@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class ArrayExample {
 
     public static void main(String[] args) {
-
+            int arr[]= new int[];
     }
 
     public static char[][] patternCreator(){
